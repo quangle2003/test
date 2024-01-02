@@ -1,0 +1,476 @@
+* {
+  margin: 0 auto;
+}
+body{
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-feature-settings:normal;
+  font-size: 16px;
+  font-variation-settings: normal;
+  font-weight:400px;
+}
+.container {
+  max-width: 1200px;
+  border: 1px solid #E6E8EC;
+  margin-left: 100px;
+}
+
+.logo {
+  float: left;
+  margin: 50px;
+  margin-right: 300px;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+.layout {
+  padding: 12px 16px 12px 16px;
+  gap: 4px;
+  list-style-type: none;
+  font-weight: bold;
+}
+
+.layout ul {
+  list-style-type: none;
+  display: flex;
+  margin-top: 50px;
+}
+
+.layout li {
+  margin-right: 15px;
+}
+
+.layout a {
+  text-decoration: none;
+  color: black;
+}
+
+.img {
+  margin-left: -450px;
+  margin-top: 80px;
+}
+
+.text1 {
+  max-width: 600px;
+  margin-left: -450px;
+}
+
+.homepage1 {
+  float: left;
+  margin-right: 100px;
+}
+
+.text2 {
+  width: 330px;
+  margin-top: 10px;
+}
+
+.homepage2 {
+  float: left;
+  margin-top: 85px;
+}
+
+.text3 {
+  color: #00295C;
+  text-align: center;
+  margin-top: 900px;
+}
+
+.left {
+  float: left;
+}
+
+.img3 {
+  margin-left: 50px;
+  float: left;
+  display: flex;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.kh {
+  color: #00295C;
+  margin-left: 50px;
+}
+
+.left1 {
+  float: left;
+}
+
+.text-new2 {
+  float: left;
+}
+
+.textbv {
+  color: #00295C;
+  margin-left: 50px;
+}
+
+.tex3 {
+  margin-left: 50px;
+  margin-right: 80px;
+  margin-bottom: 40px;
+}
+
+.tex3 p {
+  max-width: 630px;
+}
+
+.tex h3 {
+  max-width: 300px;
+}
+
+.container1 {
+  float: left;
+  display: grid;
+  width: 700px;
+}
+
+.container2 {
+  display: flex;
+  float: left;
+}
+
+.dk {
+  border: 1px solid #E6E8EC;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.dk {
+  border: 1px solid #E6E8EC;
+  margin-top: 40px;
+  margin-left: 60px;
+}
+
+.text-new1 {
+  text-align: center;
+}
+
+.dk1 {
+  margin: 20px
+}
+
+.dk1 input {
+  border: 1px solid #E6E8EC;
+  border-radius: 5px;
+  width: 350px;
+  height: 30px;
+  margin-top: 10px;
+}
+
+.submit {
+  text-align: center;
+  background-color: #0066E6;
+  width: 360px;
+  color: #E6E8EC;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid #E6E8EC;
+}
+
+.footer1 {
+  width: 900px;
+}
+
+.content {
+  margin-top: 260px;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+
+.textt {
+  max-width: 360px;
+  margin-left: 80px;
+  margin-top: 10px;
+  color: #0066E6;
+}
+
+.textt a {
+  text-decoration: none;
+  color: #0066E6;
+}
+
+.tag-new {
+  border: 1px solid #E6E8EC;
+  width: 40px;
+  text-align: center;
+  margin-left: 80px;
+  display: flex;
+  border-radius: 5px;
+  float: left;
+}
+
+.tag-new1 {
+  border: 1px solid #E6E8EC;
+  width: 70px;
+  text-align: center;
+  margin-left: 15px;
+  border-radius: 5px;
+  margin-top: -18px;
+  float: left;
+}
+
+.tag-new2 {
+  border: 1px solid #E6E8EC;
+  width: 50px;
+  text-align: center;
+  margin-left: 225px;
+  border-radius: 5px;
+  margin-top: -35px;
+}
+
+.tag-new3 {
+  border: 1px solid #E6E8EC;
+  width: 60px;
+  text-align: center;
+  margin-left: 80px;
+  border-radius: 5px;
+  float: left;
+}
+
+.tag-new4 {
+  border: 1px solid #E6E8EC;
+  width: 70px;
+  text-align: center;
+  margin-left: 160px;
+  border-radius: 5px;
+  margin-top: -18px;
+}
+
+.tag-new5 {
+  border: 1px solid #E6E8EC;
+  width: 200px;
+  text-align: center;
+  margin-left: 80px;
+  border-radius: 5px;
+}
+
+.tag-new6 {
+  border: 1px solid #E6E8EC;
+  width: 60px;
+  text-align: center;
+  margin-left: 80px;
+  border-radius: 5px;
+  float: left;
+}
+
+.tag-new7 {
+  border: 1px solid #E6E8EC;
+  width: 140px;
+  text-align: center;
+  margin-left: 160px;
+  border-radius: 5px;
+  margin-top: -18px;
+}
+
+.tag1 {
+  margin-top: 100px;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+
+.p1 {
+  color: #0066E6;
+  text-align: right;
+}
+
+.logo1 {
+  margin-left: 70px;
+}
+
+.ct {
+  margin-left: 70px;
+}
+
+.text-news {
+  margin-left: 50px;
+  display: flex;
+  max-width: 400px;
+}
+
+.text-news1 p {
+  float: left;
+}
+
+.email {
+  text-align: left;
+  margin-left: 90px;
+}
+
+.dkt {
+  text-align: center;
+}
+
+.dke input {
+  border: 1px solid #E6E8EC;
+  border-radius: 5px;
+  width: 500px;
+  height: 30px;
+}
+
+.dke button {
+  border: 1px solid #E6E8EC;
+  width: 300px;
+  height: 35px;
+  margin-left: 20px;
+  color: aliceblue;
+  background-color: #0066E6;
+  border-radius: 5px;
+}
+
+.footer {
+  margin-top: 100px;
+}
+
+.foot {
+  background: #0052B8;
+  padding: 50px 0;
+  margin-top: 50px;
+  list-style: none;
+  color: white;
+}
+
+.foot-new {
+  max-width: 450px;
+  margin-left: 50px;
+  margin-right: 30px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  color: white;
+  float: left;
+  list-style: none;
+
+}
+
+.foot-new li {
+  list-style: none;
+}
+
+.foot-new h1 {
+  color: white;
+}
+
+.menu1 {
+  margin-bottom: 100px;
+  margin-top: -20px;
+  float: left;
+}
+
+.menu1 li {
+  list-style: none;
+  padding: 10px 0;
+}
+
+.menu1 li a {
+  color: white;
+  text-decoration: none;
+}
+
+.menu1 li a:hover {
+  color: #c89979;
+}
+
+.menu {
+  margin-bottom: 100px;
+  margin-top: -20px;
+  float: left;
+  margin-left: -20px;
+}
+
+.menu li {
+  list-style: none;
+  padding: 10px 0;
+}
+
+.menu li a {
+  color: white;
+  text-decoration: none;
+}
+
+.menu li a:hover {
+  color: #c89979;
+}
+
+.foot-btm {
+  max-width: 1150px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-top: 10px;
+}
+
+.foot-b {
+  border-top: 1px solid gray;
+}
+
+.menu2 {
+  margin-bottom: 100px;
+  margin-top: -20px;
+}
+
+.menu2 li {
+  list-style: none;
+  padding: 10px 0;
+}
+
+.menu2 li a {
+  color: white;
+  text-decoration: none;
+}
+
+.menu2 li a:hover {
+  color: #c89979;
+}
+
+.a1 {
+  margin-left: 30px;
+}
+
+.a2 {
+  margin-left: 30px;
+  margin-right: -40px;
+  float: left;
+}
+
+.a3 {
+  float: left;
+  margin-left: 45px;
+  margin-top: -20px;
+}
+
+.a4 {
+  margin-top: -40px;
+  float: left;
+  margin-left: 105px;
+}
+
+.a5 {
+  margin-left: 143px;
+  margin-top: -60px;
+  float: left;
+}
+
+.foot1 p {
+  display: grid;
+  margin-right: -550px; 
+}
+
+.dk1 p {
+  color: #B1B5C3;
+}
+
+.dke p {
+  color: #B1B5C3;
+}
+.foot-new img{
+  margin-right: 5px;
+  margin-top: 3px;
+  width: 16px;
+}
